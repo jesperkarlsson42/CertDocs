@@ -85,11 +85,11 @@ flowchart TD
     B -->|No| D{Is it queried frequently<br/>for investigations?}
     D -->|Yes, ad-hoc queries| E[Basic plan]
     D -->|Rarely or never| F{Compliance/retention<br/>requirement?}
-    F -->|Yes| G[Basic plan + long archive retention]
+    F -->|Yes| G[Basic plan<br/> + long archive retention]
     F -->|No| H[Consider not ingesting]
 
     C --> I[Full KQL, Sentinel detections,<br/>hunting, workbooks, UEBA]
-    E --> J[Limited KQL, single-table queries,<br/>~60-70% cost savings]
+    E --> J[Limited KQL,<br/> single-table queries,<br/>~60-70% cost savings]
     G --> K[Search jobs or restore<br/>for forensic investigation]
 ```
 

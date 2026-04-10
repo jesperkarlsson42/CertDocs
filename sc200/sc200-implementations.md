@@ -8,6 +8,7 @@ Step-by-step implementation guides with visual flows for key SC-200 topics.
 | [Automation Rules & Playbooks](implementations/automation-rules-playbooks.md) | Automate incident triage and response with Logic Apps |
 | [CEF / Syslog](implementations/cef-syslog.md) | Collect CEF & Syslog data via AMA and DCR |
 | [Custom Analytics Rule](implementations/custom-analytics-rule.md) | Create scheduled KQL-based detection rules |
+| [Custom Table with JSON (DCR-Based)](implementations/custom-table-json.md) | Ingest custom JSON logs into a custom Log Analytics table via the Logs Ingestion API |
 | [Data Collection Rules](implementations/data-collection-rules.md) | Filter and transform logs before ingestion with DCRs |
 | [Data Connector](implementations/data-connector.md) | Connect a data source to Sentinel |
 | [Defender for Cloud JIT](implementations/defender-cloud-jit.md) | Lock down VM management ports with Just-In-Time access |
