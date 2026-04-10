@@ -17,6 +17,7 @@ Step-by-step implementation guides with visual flows for key SC-200 topics.
 | [MDA Shadow IT Discovery](implementations/mda-shadow-it.md) | Discover and control unsanctioned SaaS apps |
 | [MDE Onboarding & Response](implementations/mde-onboarding-response.md) | Onboard devices and use response actions |
 | [MDI Sensor Deployment](implementations/mdi-sensor-deployment.md) | Deploy identity sensors on domain controllers |
+| [Threat Explorer](implementations/threat-explorer.md) | Investigate and remediate email threats with MDO Threat Explorer |
 | [Threat Intelligence](implementations/threat-intelligence.md) | Feed IoCs into Sentinel and enable TI matching |
 | [UEBA](implementations/ueba.md) | Enable User & Entity Behavior Analytics |
 | [Workbooks](implementations/workbooks.md) | Build interactive security dashboards |
