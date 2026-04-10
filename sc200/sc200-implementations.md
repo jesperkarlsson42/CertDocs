@@ -14,6 +14,7 @@ Step-by-step implementation guides with visual flows for key SC-200 topics.
 | [Incident Response](implementations/incident-response.md) | End-to-end incident handling workflow |
 | [KQL Hunting Queries](implementations/kql-hunting-queries.md) | Proactive threat hunting with KQL |
 | [Livestream](implementations/livestream.md) | Run real-time hunting sessions |
+| [Log Table Plans (Analytics / Basic / Archive)](implementations/log-table-plans.md) | Choose the right table plan for cost vs detection capability |
 | [MDA Shadow IT Discovery](implementations/mda-shadow-it.md) | Discover and control unsanctioned SaaS apps |
 | [MDE Onboarding & Response](implementations/mde-onboarding-response.md) | Onboard devices and use response actions |
 | [MDI Sensor Deployment](implementations/mdi-sensor-deployment.md) | Deploy identity sensors on domain controllers |
